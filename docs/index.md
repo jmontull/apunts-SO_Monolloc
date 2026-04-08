@@ -147,3 +147,11 @@ rwx | rwx | rwx
 ```bash
 clear
 ```
+
+```javascript
+let nombre = "Ana";
+const edad = 25;
+let esEstudiante = true;
+
+console.log(nombre, edad, esEstudiante);
+```

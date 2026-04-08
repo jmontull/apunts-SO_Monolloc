@@ -52,12 +52,5 @@ export default defineConfig({
     ],
 
     outlineTitle: "Contenido",
-
-    socialLinks: [{ icon: "github", link: "https://github.com/tuusuario" }],
-
-    footer: {
-      message: "Apunts de Sistemes Operatius",
-      copyright: "© 2026",
-    },
   },
 });
